@@ -1,5 +1,7 @@
+Airbnb Data Analysis
+
 🏠 Airbnb Data Analysis Project
-  This project performs a comprehensive analysis of Airbnb listings in New York City using Python. The dataset includes details such as listing name, host details,   price, location, room type, number of reviews, availability, and more.
+   performs a comprehensive analysis of Airbnb listings in New York City using Python. The dataset includes details such as listing name, host details,   price, location, room type, number of reviews, availability, and more.
 
 📊 Project Objective
   The main goal of this project is to:
